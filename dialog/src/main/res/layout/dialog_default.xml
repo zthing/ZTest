@@ -31,7 +31,7 @@
             android:layout_gravity="center_vertical|end"
             android:layout_margin="10dp"
             android:background="@drawable/selector_dialog_close"
-            android:contentDescription="@string/app_name"/>
+            android:contentDescription="@android:string/ok"/>
     </FrameLayout>
 
     <LinearLayout
